@@ -1,0 +1,5 @@
+1,aaa,23,eating disorder,false
+2,bbb,24,cancer,true
+3,ccc,45,coronavirus,true
+4,ddd,65,cancer,false
+5,eee,31,drug addiction,false
