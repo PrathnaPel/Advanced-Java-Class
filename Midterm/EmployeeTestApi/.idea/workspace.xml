@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60a6508e-f16e-425f-84d8-b9acfd006e40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kDQ2aY9IRTcIS9HyYdsRNkdNCJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Prathna\Desktop\Advanced-Java-Class\HW4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.&lt;default&gt; (1)">
+    <configuration name="All in EmployeeTestApi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EmployeeTestApi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEmployeeApi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EmployeeTestApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestEmployeeApi" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt; (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EmployeeTestApi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EmployeeTestApi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.&lt;default&gt; (1)" />
+        <item itemvalue="JUnit.All in EmployeeTestApi" />
+        <item itemvalue="TestNG.TestEmployeeApi" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60a6508e-f16e-425f-84d8-b9acfd006e40" name="Default Changelist" comment="" />
+      <created>1605232477332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605232477332</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="596" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605234366067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="596" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605234366067" />
+    <state x="922" y="284" key="FileChooserDialogImpl" timestamp="1605233145546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="284" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605233145546" />
+    <state width="1340" height="267" key="GridCell.Tab.0.bottom" timestamp="1605234619360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605234619360" />
+    <state width="1340" height="267" key="GridCell.Tab.0.center" timestamp="1605234619360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605234619360" />
+    <state width="1340" height="267" key="GridCell.Tab.0.left" timestamp="1605234619360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605234619360" />
+    <state width="1340" height="267" key="GridCell.Tab.0.right" timestamp="1605234619360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605234619360" />
+  </component>
+</project>
