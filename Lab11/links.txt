@@ -1,0 +1,13 @@
+http://ppel-angular-course.herokuapp.com/course
+
+
+I changed the link above from https to http
+
+
+Also, I was getting problem with ng build --prod, so I use ng build instead
+
+
+Using backend link from previous lab
+
+
+http://courseserver-env.eba-mz78hm3p.us-east-1.elasticbeanstalk.com/api/courses
